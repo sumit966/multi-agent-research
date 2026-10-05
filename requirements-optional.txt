@@ -1,0 +1,7 @@
+﻿# Optional: install for real LangGraph + OpenAI LLM integration
+# If these fail, the project runs with a rule-based mock agent fallback
+langgraph>=0.0.40
+langchain>=0.1.0
+langchain-openai>=0.0.5
+openai>=1.10.0
+tiktoken>=0.6.0
